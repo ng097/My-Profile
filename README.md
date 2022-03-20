@@ -1,2 +1,28 @@
 # My Profile
  Assessment 1
+
+Overview
+During my time in the IT industry, I have worked with numerous organisations which allowed me to be part of there IT Service Desk.  My project idea of a fully automated IT Service Desk would improve end-user experience, user productivity, minimize user downtime and increase the time spent on high priority issues. The Help Desk software will automatically assess the user’s issue, while assigning the issue to the specified user. From past experience most day to day issues end user’s face require a minimum of 5 minutes to troubleshoot and another couple of minutes to resolve, requiring little technical knowledge. By implementing a software which holds knowledge base documents of reoccurring issues, this could be easily automated. 
+
+Motivation
+The Motivation for this Project derives from my prior real-life experiences. Being able to see the ins and outs of how various companies operate their IT support in addition to how important and essential IT support is for the majority of companies. It is stated that the biggest obstacle for delivering high-quality help desk services is modernizing service systems, which is what my project will deliver. This project is quite interesting due to the amount of time and effort companies put in making an efficient and effective on-site IT support team. It is said that on average and depending on the company size, there is 1 IT staff for 75 users. Automating the support process will allow for more time on projects and depending on company size this ratio could even be reduced. 
+
+Description / Tools and Technologies
+The automatic help desk involves a lot of data collection prior to the software being effective. The idea starts with creating simple, easy to follow documentation of reoccurring issues that users are facing. The software will hold these documents as a knowledge base. It will need to be linked to the environment of the company whether their environment is based on-premises (e.g., Active Directory) or cloud (e.g., Office 365).
+The software will be simple and user friendly with limited navigation and straight forward questions. The questions will be as followed:
+•	Name – This is to help identify whether the user is considered a VIP user
+•	Application that has the issue or whether it is just a general PC/hardware issue ?
+•	Is the issue affecting BAU work for the user ?
+•	How often are you experiencing the issue ?
+•	Are you aware of this issue affecting other users ?
+•	Brief description of the issue ?
+These are just examples of questions that can be asked in order for the software to link the issue to the relevant documentation. Depending on the issue, the documentation will then be emailed to the user which they can then follow the instructions on how to fix the problem. If the issue is related to hardware the series of questions will change to more common hardware related issues. The system will identify whether or not it is adequate for the user to be given a new device or not. If the user is considered as VIP which will be determined based off their role in the business, the software will show a calendar where they can book the next available time with a technician to provide them with instantaneous assistance.  
+
+As companies use many different devices for their employees the software will be compatible with all Operating Systems as well as in a form of an app. The app will be identical to the desktop software which will provide remote help as working remotely has grown due to the pandemic. If a hardware swap will be needed for a remote user, this information will be reported back to the on-site technician who can pre-configure and post a new device out. 
+All that will be needed on-site is a computer or an iPad running the software where users are able at anytime to use and lodge an issue. A technician or service desk manager will be responsible for overlooking the software which has a management portal allowing an insight on what has been lodge and what has been scheduled. This will allow for the manager to make sure the software is providing the service it is meant too and not giving wrong documentation to the issues reported by the users. Allowing adequate time in technicians schedules to offer support to VIP users and any hardware related issues together with allowing more time for projects and high priority matters.
+
+Skills Required 
+The software will require basic IT help desk experience. This involves communication with customers as well as organisational skills. It will require team communication and a level understand of common Application/ Hardware issues. Due to the compatibility of the software no special hardware will be required to run the software which will enable any business to use it at any stage. Writing the software will require a software engineer as well as developers to code the software. It will need an overall project manager to ensure the software stays user friendly and basic. Like any software development the project is highly feasible, and the skills required in creating the software are not hard to come by. 
+
+Outcome
+If the product is successful, the organisation can use it to achieve continuous improvements to end-to-end services. The focus of the software is to improve efficiency while delivering quality services which align with customer needs. The Software will help define its IT service and due to its customisation, implementation and improvements can be made in stages. Every large organisation requires on-site IT support, the software will allow for single interaction resolutions as well as provide a seamless experience for end users. 
